@@ -1,0 +1,18 @@
+{
+  "name": "worldcup-2022",
+  "main": "./lib/worldcup-2022",
+  "version": "1.0.0",
+  "description": "ลิขสิทธิ์บอลโลก 2022 แต่ว่าไทยยังจำเป็นต้องลุ้นต่อ",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "worldcup-2022:toggle"
+  },
+  "repository": "https://github.com/RCTJ/worldcup-2022",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle worldcup-2022",
+        "command": "worldcup-2022:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "worldcup-2022",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "worldcup-2022:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
